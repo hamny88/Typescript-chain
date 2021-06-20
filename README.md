@@ -1,6 +1,6 @@
 # Typescript-chain
 
-making SIMPLE blockchian with TS to figure out how typescript is cool. 
+making SIMPLE blockchian with TS 
 
 Hash : used CryptoJS. 
 
